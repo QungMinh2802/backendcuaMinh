@@ -1,7 +1,7 @@
 <?php
 	require "./function.php";
 	$database = new database();
-	$data = get_list_table_blog_contact();
+	$data = get_list_table_contact();
 ?>
 
 <!DOCTYPE >
