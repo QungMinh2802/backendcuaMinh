@@ -246,26 +246,25 @@
                                     </div>
                                 </div>
                                 <div class="account-wrap">
-                                <div class="account-wrap">
                                     <div class="account-item clearfix js-item-menu">
                                     <div class="image">
-                                            <img src="images/icon/avatar00.jpg" alt="Hoai Nam" />
+                                            <img src="images/icon/avatar01.jpg" alt="" />
                                         </div>
                                         <div class="content">
-                                            <a class="js-acc-btn" href="#">Hoai Nam</a>
+                                            <a class="js-acc-btn" href="#">Quang Minh</a>
                                         </div>
                                         <div class="account-dropdown js-dropdown">
                                             <div class="info clearfix">
                                                 <div class="image">
                                                     <a href="#">
-                                                        <img src="images/icon/avatar00.jpg" alt="HoaiNam" />
+                                                        <img src="images/icon/avatar01.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="content">
                                                     <h5 class="name">
-                                                        <a href="#">Hoai Nam</a>
+                                                        <a href="#">Quang Minh</a>
                                                     </h5>
-                                                    <span class="email">lehoainam@example.com</span>
+                                                    <span class="email">quangminh@example.com</span>
                                                 </div>
                                             </div>
                                             <div class="account-dropdown__body">
