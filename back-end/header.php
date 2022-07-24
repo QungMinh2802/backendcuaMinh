@@ -296,7 +296,7 @@
                                             <div class="info clearfix">
                                                 <div class="image">
                                                     <a href="#">
-                                                        <img src="images/icon/avatar01.jpg" alt="" />
+                                                        <img src="images/icon/avatar-01.jpg" alt="" />
                                                     </a>
                                                 </div>
                                                 <div class="content">
