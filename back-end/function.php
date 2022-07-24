@@ -1,7 +1,7 @@
 <?php
     require "./database.php";
 
-    function get_list_post()
+    function get_list_blog_post()
     {
         $database = new database();
         $select = "SELECT * FROM blog_post";
@@ -11,7 +11,7 @@
 
 
     //Get contact người dùng lên table
-    function get_list_table_contact(){
+    function get_list_table_blog_contact(){
 
         $database = new database();
         $select = "SELECT * FROM blog_contact";
